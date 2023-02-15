@@ -12,6 +12,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -50,4 +51,7 @@ Users should be able to:
 
 - Frontend Mentor - [@fermendoza18](https://www.frontendmentor.io/profile/fermendoza18)
 
+## Acknowledgments
 
+He helped me a lot with the grid design of the cards and improving my html.
+- バレンタイン - [@vcarames](https://www.frontendmentor.io/profile/vcarames)
