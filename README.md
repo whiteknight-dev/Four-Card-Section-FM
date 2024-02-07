@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://github.com/nimrodcode/Four-Card-Section-FM)
-- Live Site URL: [Here](https://nimrodcode.github.io/Four-Card-Section-FM/)
+- Solution URL: [Here](https://github.com/whiteknight-dev/Four-Card-Section-FM)
+- Live Site URL: [Here](https://whiteknight-dev.github.io/Four-Card-Section-FM/)
 
 ## My process
 
@@ -49,7 +49,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@fermendoza18](https://www.frontendmentor.io/profile/fermendoza18)
+- Frontend Mentor - [@whiteknight-dev](https://www.frontendmentor.io/profile/whiteknight-dev)
 
 ## Acknowledgments
 
